@@ -6,7 +6,7 @@ This is a colloction of *infrared image dataset* **(IRIS)** preprocessing python
 
 Infrared thermography provides non-contact technique to analyze the build environment in various aspects. While most of studies focus on a city and building scale, rooftop observatory provides high resolution with dynamical interactions on neighborhood scale. The first rooftop thermal observatory with a multi-modal platform capable of assessing a wide range of dynamical processes in urban systems was deployed in Singapore. The thermal observatory was placed on the top of a building that overlooks several educational buildings on the campus of the National University of Singapore. The platform collects remote sensing data from tropical areas on a temporal scale, allowing users to determine the temperature trend of individual features such as buildings, roads, and vegetation. To manage and analyze the obtained raw data and allow scientific users to utilize the data as they saw fit, demonstration code with data preprocessing such as segmentation was provided.
 
-In this repository, we use several examples to show the process of data preprocessing, including *file convert*, *data visualization* and basic *data analysis*. We hope this can provide a basic idea to those who want to explor more on this dataset. If you have further contribution to this repository, welcome to contact(subin_lin@u.nus.edu) us.
+In this repository, we use several examples to show the process of data preprocessing, including *file convert*, *data visualization* and basic *data analysis*. We hope this can provide a basic idea to those who want to explor more on this dataset. If you have further contribution to this repository, welcome to [contact](subin_lin@u.nus.edu) us.
 
 ### Environment
 
